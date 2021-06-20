@@ -10,11 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "fetch": "^1.1.0",
     "http": "*",
-    "https": "^1.0.0",
-    "node-fetch": "^2.6.1",
-    "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
 }
